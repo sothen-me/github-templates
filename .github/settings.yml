@@ -1,0 +1,54 @@
+repository:
+labels:
+    - name: 'Type: bug'
+      color: e80c0c
+      description: Algo não está funcionando como esperado.
+
+    - name: 'Type: enhancement'
+      color: 54b2ff
+      description: Sugira uma melhoria para um recurso existente.
+
+    - name: 'Type: feature'
+      color: 54b2ff
+      description: Sugira um novo recurso.
+
+    - name: 'Type: security'
+      color: fbff00
+      description: Um problema ou melhoria relacionado a um problema de segurança.
+
+    - name: 'Type: question'
+      color: 9309ab
+      description: Pedido de informação.
+
+    - name: 'Type: test'
+      color: ce54e3
+      description: Um problema ou melhoria relacionado a um teste.
+
+    - name: 'Status: awaiting review'
+      color: 24d15d
+      description: Pronto para revisão.
+
+    - name: 'Status: wip'
+      color: 07b340
+      description: Atualmente em trabalho.
+
+    - name: 'duplicated'
+      color: EB862D
+      description: Duplicado de outro problema.
+
+    - name: 'invalid'
+      color: faef50
+      description: Esta questão não parece certa.
+
+    - name: 'Priority: High +'
+      color: ff008c
+      description: A tarefa é considerada de maior prioridade.
+
+    - name: 'Priority: Low -'
+      color: 690a34
+      description: A tarefa é considerada de prioridade mais baixa.
+
+    - name: 'documentation'
+      color: 2fbceb
+      description: Um problema/mudança na documentação.
+
